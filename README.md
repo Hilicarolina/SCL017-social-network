@@ -23,19 +23,21 @@ Estudios de We Are Social indican que 3 de cada 4 chilenos son activos en redes 
 
  Las Redes Sociales ha revolucionado el mundo comercial, transformándose en el mejor aliado para mejorar la gestión de los emprendedores, de esta manera, las plataformas a las que se puede acceder a través de los diferentes tipos de dispositivos ayudan y potencian el crecimiento del negocio de forma acelerada en contraste de los resultados obtenidos con métodos tradicionales. 
 
- Debido al reciente suceso mundial de la Pandemia, la economía se desestabilizo dando paso a una era tecnológica que antes era opcional, convirtiendose actualmente una de las principales e indispensable forma de hacer negocio, a través de la internet, llegando ser pilar fundamental en el desarrollo y crecimiento de Pymes de una forma más rápida y accesible dandose a conocer sus respectivos productos y servicios, teniendo estos mayor alcance de usuarios a un costo asequible, ya sea a nivel local, nacional o internacional.
+ Debido al reciente suceso mundial de la Pandemia, la economía se desestabilizó dando paso a una era tecnológica que antes era opcional, convirtiéndose actualmente una de las principales e indispensables formas de hacer negocio, a través de la internet, llegando a ser pilar fundamental en el desarrollo y crecimiento de Pymes de una forma más rápida y accesible dándose a conocer sus respectivos productos y servicios, teniendo estos mayor alcance de usuarios a un costo asequible, ya sea a nivel local, nacional o internacional.
 
  Algunos tuvieron que partir de cero, otros debieron reducir su personal. Y ante la incertidumbre vieron una única solución: vender sus productos por internet y llevarlos hasta la puerta de las casas.
 
  Para ello, tuvieron que potenciar fuertemente las redes sociales, algo que ha sido el salvavidas para que microempresas sigan funcionando a lo largo del país. Una forma de vender que llegó para quedarse.
 
- Cada vez son más populares y atrayentes establecer negocios a través de las Redes Sociales, cada día se suman mas Pymes por una necesidad que la actualidad demanda, que es la cercanía a través de redes para sustentar y potenciar la economía a nivel local. Sin embargo, se tiene presente que hay pymes y pequeños negocios que corren con ciertas desventajas, porque todavía no cuentan con el conocimiento o las herramientas para transformar sus ventas al mundo digital.
-## 2. Descripción general
-Punto Pyme es una aplicación web gratuita, esta plataforma permite a toda Pyme potenciar su emprendimiento, independientemente de la etapa en que se encuentre. A través de un ámbito profesional y amigable, se busca crear una comunidad en línea para impulsar un compromiso al apoyar la economía local, en donde podran interactuar con sus clientes, y encontrar servicios o proveedores	para sus necesidades.
+ Cada vez es más popular y atrayente establecer negocios a través de las Redes Sociales, cada día se suman más Pymes por una necesidad que la actualidad demanda, que es la cercanía a través de redes para sustentar y potenciar la economía a nivel local. Sin embargo, se tiene presente que hay Pymes y pequeños negocios que corren con ciertas desventajas, porque todavía no cuentan con el conocimiento o las herramientas para transformar sus ventas al mundo digital.
 
-Respondiendo a esa invisibilidad y desventaja frente a las grandes compañias, es un gran apoyo para asi aprovecharse de las grandes ventajas que puede ocupar pertener a una Red Social como Punto Pyme, en donde juega un papel fundamental para darse a conocer al crear imagen de marca. Permiten atender más rápido y a más clientes a través de promociones efectivas, las cuales tendran un impacto e importancia en la venta. 
+## 2. Descripción general
+Punto Pyme es una aplicación web gratuita que permite a toda Pyme potenciar su emprendimiento, independientemente de la etapa en que se encuentre. A través de un ámbito profesional y amigable, se busca crear una comunidad en línea para impulsar un compromiso al apoyar la economía local, en donde podrán interactuar con sus clientes, y encontrar servicios o proveedores	para sus necesidades.
+
+Respondiendo a esa invisibilidad y desventaja frente a las grandes compañías, es un gran apoyo para así aprovecharse de las grandes ventajas que puede ocupar pertener a una Red Social como Punto Pyme, en donde juega un papel fundamental para darse a conocer al crear imagen de marca, permitiendo atender más rápido y a más clientes a través de promociones efectivas, las cuales tendrán un impacto e importancia en la venta.
+
 ## 3. Perfil de usuarios
-Punto Pyme va dirigido a todas las Pymes y usuarios que quieran fomentar la economía local, creando una comunidad en base a la sinergía y la unión de fuerzas, apoyandose en el poder de las Redes Sociales, con el objetivo de dar a conocer la marca, promocionar la compra/venta de servicios y/o productos a través de esta plataforma. Por lo tanto, entre los perfiles de usuario, destacan:
+Punto Pyme va dirigido a todas las Pymes y usuarios que quieran fomentar la economía local, creando una comunidad con base en la sinergia y la unión de fuerzas, apoyándose en el poder de las Redes Sociales, con el objetivo de dar a conocer la marca, promocionar la compra/venta de servicios y/o productos a través de esta plataforma. Por lo tanto, entre los perfiles de usuario destacan:
 - Pymes: * 
   - Microempresa (<10 trabajadores).
   - Pequeña (<50 trabajadores).
@@ -43,7 +45,7 @@ Punto Pyme va dirigido a todas las Pymes y usuarios que quieran fomentar la econ
 - Clientes.
 *(Clasificación según el Ministerios de Economía Fomento y Turismo de Chile).
 
-Una vez identificados dichos perfiles de usuarios, se procedio a realizar una encuesta como técnica de investigación con el objetivo de apreciar la experiencia y consideraciones de los mismos para determinar la necesidad de una Red Social centrada en las Pymes, a través de la encuesta se determino, que:
+Una vez identificados dichos perfiles de usuarios, se procedió a realizar una encuesta como técnica de investigación con el objetivo de apreciar la experiencia y consideraciones de los mismos para determinar la necesidad de una Red Social centrada en las Pymes, a través de la encuesta se determinó que:
 
 * El 39.1% se identifica como Pymes de tipo Microempresa, seguido por un 32.6% de Pymes Pequeñas y un 28.3% de Usuarios.
 * Los rubros o áreas comerciales a las que pertenecen las Pymes o a las cuales los usuarios suelen comprar, predominan:
@@ -55,8 +57,8 @@ Una vez identificados dichos perfiles de usuarios, se procedio a realizar una en
    - 8.7% Industrias Manufactureras.
    
 * El 97.8% han utilizado alguna Red Social para vender o comprar.
-* 100%  conincide que publica con mayor frecuencia en su perfil al vender contenido de tipo texto con imágen.
-* 100% como usuario valora en un perfil de compra/venta contenido de tipo texto con imágen.
+* 100%  conincide que publica con mayor frecuencia en su perfil al vender contenido de tipo texto con imagen.
+* 100% como usuario valora en un perfil de compra/venta contenido de tipo texto con imagen.
 * El 43.5% frecuentemente y un 30.4% muy frecuentemente vende por Redes Sociales. 
 * El 45.7% frecuentemente y un 39.1% muy frecuentemente busca y compra productos por Redes Sociales.
 * La recomendaciones son la interacción más valorada con un 47.8%, al momento de decidir una compra, seguida por los comentarios respondidos (45.7%), número de publicaciones (45.7%) y por último el número de likes (37%).
@@ -64,6 +66,12 @@ Una vez identificados dichos perfiles de usuarios, se procedio a realizar una en
 * Un 65.2% le suele comprar a Pymes o pequeños comerciantes.
 * El 100% cree que las Pymes necesitan más áreas o espacios para darse a conocer.
 
+ Ver encuesta
+ <details>
+ <summary>Ver encuesta</summary>
+
+![Encuesta](./src/images/Encuesta.png)
+</details>
 
 ## 4. Historias de usuarios
 Historia de usuario 1: "yo, como pyme nueva quiero registrarme y crear una cuenta de forma sencilla para mostrar mis productos en una plataforma que sea amigable."
@@ -113,14 +121,14 @@ Historia de usuario 2: "yo, como pyme establecida, quiero dar a conocer mis prod
 Criterios de aceptación:
 - El usuario puede acceder a través de un menú a la opción de publicar un post.
 - El usuario al acceder a la opción de publicar un post, accede a una plantilla que tendrá opciones para personalizar.
-- El usuario en la plantilla del post tiene la opción de publicar Imágen, una breve descripción y/o rubro.
+- El usuario en la plantilla del post tiene la opción de publicar imagen, una breve descripción y/o rubro.
 - El usuario puede dar por publicado el post a través de un botón de publicar.
-- El usuario al visualizar el post publicado puede observar en la plantilla las siguientes descripciones: imágen, nombre de Pyme/Usuario, rubro, y/o breve descripción, likes, sección de comentarios.
+- El usuario al visualizar el post publicado puede observar en la plantilla las siguientes descripciones: imagen, nombre de Pyme/Usuario, rubro, y/o breve descripción, likes, sección de comentarios.
 - El usuario puede observar en su perfil los post publicados.
 - El usuario puede editar los post publicados y preservar los cambios.
 - El usuario puede eliminar los posts.
 - El usuario puede confirmar si está seguro de eliminar o no un post a través de un mensaje de confirmación.
-- El usuario puede interactuar con otros posts dandole like y comentando.
+- El usuario puede interactuar con otros posts dándole like y comentando.
 - El usuario puede quitar el like.
 
 Definición de terminado:
@@ -138,12 +146,6 @@ Definición de terminado:
 * [X] Mostrar en publicación número interactivo real de likes.
 * [X] Poder comentar publicaciones. 
 * [X] Mostrar post en perfil.
-
-Historia de usuario 3: "yo, como pyme grande quiero buscar otras pymes que vendan insumos y materia prima de mi interés para potenciarnos mutuamente."
-
-Criterios de aceptación:
-
-Definición de terminado:
 
 ## 5. Prototipo y diseño
 
@@ -163,9 +165,19 @@ Definición de terminado:
 ## 6. Interfaz
 
 ## 7. Modo de usuarios
+      El usuario, al igresar a la aplicación, se encontrará con el formulario de inicio de sesión. Al ingresar sus datos será regirigido al muro; de no tener sesión, el usuario debe pulsar en el boton registrate y acceder al formulacio de registro para crear una cuenta. Al crear una cuenta, este recibirá un correo de validación, el cual debera dar click al enlace para verificar su cuenta. Posterior a esto puede iniciar sesión con su correo correspondiente y tendrá acceso al muro. 
+
+      Al acceder al muro el usuario podrá ver las publicaciones que el y otros usuarios han compartido. Podrá dar like o recomendar las que les gusten. También tendrá acceso a través del menú podrá agregar post(icono plus), podrá ir al perfil(icono de usuario), y podrá cerrar sesión(icono logout) y si quiere retornar al muro por el icono de home. 
+      
+      Al pulsar el icono plus se desplegará una ventana emergente que permitirá subir una imagen y agregar a esta una descripción; al clickear el boton "Guardar", la imagen será mostrada tanto en muro como en perfil.
+
+      Al seleccionar el icono de usuario, se podrá ir al perfil en donde se guardan todas la publicaciones propias; en estas, tendrá la opción de editar y/o eliminar las mismas. En la parte superior se mostrará una información descriptiva del usuario que está accediendo a esa sección, y podrá editar su perfil (Por ahora esta acción es no funcional).
+
+      Al pulsar el icono logout, el usuario cerrará sesión y será devuelto a la página inicial en donde está desplegado el formulario de inicio de registro/inicio de sesión.
+
 
 ## 8. Tecnología
-
+      Firebase
 ## 9. Enlace web
 
 
