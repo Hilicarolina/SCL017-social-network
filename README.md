@@ -165,15 +165,15 @@ Definición de terminado:
 ## 6. Interfaz
 
 ## 7. Modo de usuarios
-      El usuario, al igresar a la aplicación, se encontrará con el formulario de inicio de sesión. Al ingresar sus datos será regirigido al muro; de no tener sesión, el usuario debe pulsar en el boton registrate y acceder al formulacio de registro para crear una cuenta. Al crear una cuenta, este recibirá un correo de validación, el cual debera dar click al enlace para verificar su cuenta. Posterior a esto puede iniciar sesión con su correo correspondiente y tendrá acceso al muro. 
+El usuario, al igresar a la aplicación, se encontrará con el formulario de inicio de sesión. Al ingresar sus datos será regirigido al muro; de no tener sesión, el usuario debe pulsar en el boton registrate y acceder al formulacio de registro para crear una cuenta. Al crear una cuenta, este recibirá un correo de validación, el cual debera dar click al enlace para verificar su cuenta. Posterior a esto puede iniciar sesión con su correo correspondiente y tendrá acceso al muro. 
 
-      Al acceder al muro el usuario podrá ver las publicaciones que el y otros usuarios han compartido. Podrá dar like o recomendar las que les gusten. También tendrá acceso a través del menú podrá agregar post(icono plus), podrá ir al perfil(icono de usuario), y podrá cerrar sesión(icono logout) y si quiere retornar al muro por el icono de home. 
+Al acceder al muro el usuario podrá ver las publicaciones que el y otros usuarios han compartido. Podrá dar like o recomendar las que le gusten. También tendrá acceso a través del menú podrá agregar post(icono plus), podrá ir al perfil(icono de usuario), y podrá cerrar sesión(icono logout) y si quiere retornar al muro por el icono de home. 
       
-      Al pulsar el icono plus se desplegará una ventana emergente que permitirá subir una imagen y agregar a esta una descripción; al clickear el boton "Guardar", la imagen será mostrada tanto en muro como en perfil.
+Al pulsar el icono plus se desplegará una ventana emergente que permitirá subir una imagen y agregar a esta una descripción; al clickear el boton "Guardar", la imagen será mostrada tanto en muro como en perfil.
 
-      Al seleccionar el icono de usuario, se podrá ir al perfil en donde se guardan todas la publicaciones propias; en estas, tendrá la opción de editar y/o eliminar las mismas. En la parte superior se mostrará una información descriptiva del usuario que está accediendo a esa sección, y podrá editar su perfil (Por ahora esta acción es no funcional).
+Al seleccionar el icono de usuario, se podrá ir al perfil en donde se guardan todas la publicaciones propias; en estas, tendrá la opción de editar y/o eliminar las mismas. En la parte superior se mostrará una información descriptiva del usuario que está accediendo a esa sección, y podrá editar su perfil (Por ahora esta acción es no funcional).
 
-      Al pulsar el icono logout, el usuario cerrará sesión y será devuelto a la página inicial en donde está desplegado el formulario de inicio de registro/inicio de sesión.
+Al pulsar el icono logout, el usuario cerrará sesión y será devuelto a la página inicial en donde está desplegado el formulario de inicio de registro/inicio de sesión.
 
 
 ## 8. Tecnología
