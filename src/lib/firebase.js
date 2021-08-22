@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 const firebaseInit = () => {
   const firebaseConfig = {
     apiKey: 'AIzaSyA-7wjgyCL8NqhOvM0D_tlfirof1p-k5l0',
@@ -26,7 +27,7 @@ const createUserCollection = async () => {
     description: null,
     area: null,
   });
-} 
+};
 // registro con email y contraseña
 const firebaseSignUp = async (userData) => {
   try {
@@ -42,12 +43,12 @@ const firebaseSignUp = async (userData) => {
     });
     const user = firebase.auth().currentUser;
     verificationEmail();
-    console.log(user.displayName);
+    // console.log(user.displayName);
     return null;
   } catch (error) {
     const errorCode = error.code;
     const errorMessage = error.message;
-    console.log(error);
+    // console.log(error);
   }
 };
 
@@ -67,9 +68,9 @@ const firebaseLogIn = async (userData) => {
       .auth()
       .signInWithEmailAndPassword(
         userData.userEmailSignIn,
-        userData.userPasswordSignIn
+        userData.userPasswordSignIn,
       );
-    console.log(userCredential);
+    // console.log(userCredential);
     const user = firebase.auth().currentUser;
     if (user != null && user.emailVerified) {
       window.localStorage.setItem(
@@ -80,16 +81,16 @@ const firebaseLogIn = async (userData) => {
       window.location.hash = '#feed';
       return user;
     }
-    console.log('usuario no verificado');
+    // console.log('usuario no verificado');
     return null;
   } catch (error) {
     const errorCode = error.code;
     const errorMessage = error.message;
-    console.log(error);
+    // console.log(error);
   }
 };
 
-//inicio de sesión con google
+// inicio de sesión con google
 const googleLogin = async () => {
   try {
     const provider = new firebase.auth.GoogleAuthProvider();
@@ -103,7 +104,7 @@ const googleLogin = async () => {
     const token = credential.accessToken;
     // The signed-in user info.
     const user = result.user;
-    console.log('user', user);
+    // console.log('user', user);
     window.location.hash = '#feed';
   } catch (error) {
     // Handle Errors here.
@@ -113,7 +114,7 @@ const googleLogin = async () => {
     const email = error.email;
     // The firebase.auth.AuthCredential type that was used.
     const credential = error.credential;
-    console.log('error', errorMessage);
+    // console.log('error', errorMessage);
   }
 };
 
@@ -155,7 +156,7 @@ const firebaseLogout = async () => {
   try {
     await firebase.auth().signOut();
     window.localStorage.removeItem('puntopyme-name');
-    alert("se ejecutó logout");
+    alert('se ejecutó logout');
   } catch (error) {
     console.log(error);
   }

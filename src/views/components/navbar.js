@@ -1,7 +1,7 @@
 import { viewPost } from '../viewPost.js';
 import { firebaseLogout } from '../../lib/firebase.js';
 
-//-------menu superior
+// -------menu superior
 
 export const topMenuComponent = () => {
   const containerTopMenu = document.createElement('div');
@@ -107,9 +107,8 @@ export const mobileMenuComponent = () => {
 
   const logOutBtn = containerMobileMenu.querySelector('.logout-btn');
   logOutBtn.addEventListener('click', () => {
-       alert("chao!");
-      firebaseLogout();
-
+    alert('chao!');
+    firebaseLogout();
   });
 
   return containerMobileMenu;

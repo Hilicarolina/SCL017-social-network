@@ -1,12 +1,8 @@
 import { topMenuComponent, mobileMenuComponent } from './components/navbar.js';
-import { firebaseLogout } from '../lib/firebase.js';
+import { firebaseLogout, fetchPosts } from '../lib/firebase.js';
 import { viewPost } from './viewPost.js';
-//import { topMenuComponent } from './components/navbarTop.js';
 
-import { fetchPosts } from '../lib/firebase.js';
-
-// eslint-disable-next-line no-var
-var containerViews = document.querySelector('#root');
+const containerViews = document.querySelector('#root');
 
 export const viewProfile = async () => {
   containerViews.innerHTML = '';
@@ -14,9 +10,8 @@ export const viewProfile = async () => {
   const containerProfileTemplate = document.createElement('div');
 
   containerProfileTemplate.className = 'container__profile-template';
- 
-  containerProfileTemplate.appendChild(topMenuComponent());
 
+  containerProfileTemplate.appendChild(topMenuComponent());
 
   const profileTemplate = `
 
@@ -38,7 +33,7 @@ export const viewProfile = async () => {
     </div>
     <button class='btn__edit-profile'>BOTON EDITAR PERFIL</button>
           </div>`;
-    
+
   containerProfileTemplate.innerHTML += profileTemplate;
 
   let containerPostProfile = '';
@@ -131,7 +126,7 @@ export const viewProfile = async () => {
         e.stopPropagation();
         const id = e.target.getAttribute('pid');
         await firebase.firestore().collection('pyme-posts').doc(id).delete();
-        console.log('Post Deleted');
+        // console.log('Post Deleted');
         modalDelete.style.display = 'none';
         containerViews.appendChild(await viewProfile()); // ruta muro posts
       });
@@ -175,53 +170,14 @@ export const viewProfile = async () => {
         try {
           const dataRef = await firebase.firestore().collection('pyme-posts').doc(id);
           await dataRef.update({ description: newDescription.value });
-          console.log("Document successfully updated!");
+          // console.log('Document successfully updated!');
           modalEdit.style.display = 'none';
           containerViews.appendChild(await viewProfile()); // ruta muro posts
         } catch (error) {
-          console.error("Error updating document: ", error);
+          // console.error('Error updating document: ', error);
         }
       });
-
     });
-
-   /*  window.onclick = (e) => {
-      const dropBtnPost = containerProfileTemplate.querySelectorAll('.dropbtn-post');
-      const threeDots = containerProfileTemplate.querySelectorAll('.bi-three-dots-vertical');
-      if (!e.target.matches('.dropbtn-post') && !e.target.matches('.bi.bi-three-dots-vertical')) {
-        dropBtnPost.forEach((dbp) => {
-          console.log(dbp.nextElementSibling.classList)
-          if (dbp.nextElementSibling.classList.contains('show')) {
-            dbp.nextElementSibling.classList.remove('show');
-          }
-        });
-        if (e.target.matches('.bi.bi-three-dots-vertical')) {
-          threeDots.forEach((dbp) => {
-            dbp.classList.toggle()
-          });
-        }
-      }
-       dropBtnPost.forEach(() => {
-         console.log(e.target.parentElement)
-       })
-       threeDots.forEach(() => {
-         console.log(e.target.parentElement.parentElement)
-       })
-    }; */
-
-   /*  window.onclick = (e) => {
-      if (!e.target.matches('.dropbtn-post')) {
-        const dropdownPost = containerProfileTemplate.querySelector('.dropdown-content-post');
-        let i;
-        for (i = 0; i < dropdownPost.length; i + 1) {
-          const openDropdownPost = dropdownPost[i];
-          if (openDropdownPost.classList.contains('show')) {
-            openDropdownPost.classList.remove('show');
-          }
-        }
-      }
-    }; */
-
   } else {
     containerPostProfile += '<li>Publica tu primer post</li>';
   }
@@ -235,10 +191,9 @@ export const viewProfile = async () => {
 
   const logOutBtn = containerProfileTemplate.querySelector('.logout-btn');
   logOutBtn.addEventListener('click', () => {
-      alert("chao!");
-      firebaseLogout();
+    alert('chao!');
+    firebaseLogout();
   });
-
 
   return containerProfileTemplate;
 };
