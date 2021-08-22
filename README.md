@@ -162,9 +162,7 @@ Definición de terminado:
 ![Prototipo baja fidelidad iPhone 11 Pro Max Sign-in](./src/images/Figma-iPhone11ProMax-1.png)
 ![Prototipo baja fidelidad iPhone 11 Pro Max Sign-up](./src/images/Figma-iPhone11ProMax-2.png)
 
-## 6. Interfaz
-
-## 7. Modo de usuarios
+## 6. Modo de usuarios
 El usuario, al igresar a la aplicación, se encontrará con el formulario de inicio de sesión. Al ingresar sus datos será regirigido al muro; de no tener sesión, el usuario debe pulsar en el boton registrate y acceder al formulacio de registro para crear una cuenta. Al crear una cuenta, este recibirá un correo de validación, el cual debera dar click al enlace para verificar su cuenta. Posterior a esto puede iniciar sesión con su correo correspondiente y tendrá acceso al muro. 
 
 Al acceder al muro el usuario podrá ver las publicaciones que el y otros usuarios han compartido. Podrá dar like o recomendar las que le gusten. También tendrá acceso a través del menú podrá agregar post(icono plus), podrá ir al perfil(icono de usuario), y podrá cerrar sesión(icono logout) y si quiere retornar al muro por el icono de home. 
@@ -175,11 +173,10 @@ Al seleccionar el icono de usuario, se podrá ir al perfil en donde se guardan t
 
 Al pulsar el icono logout, el usuario cerrará sesión y será devuelto a la página inicial en donde está desplegado el formulario de inicio de registro/inicio de sesión.
 
-
-## 8. Tecnología
+## 7. Tecnología
       Firebase
-## 9. Enlace web
-
+## 8. Enlace web
+ https://hilicarolina.github.io/SCL017-social-network/src/
 
 ***
 <details>
