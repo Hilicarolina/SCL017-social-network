@@ -1,5 +1,7 @@
 /* eslint-disable max-len */
-import { googleLogin, firebaseSignUp, firebaseLogIn, facebookLogin } from '../lib/firebase.js';
+import {
+  googleLogin, firebaseSignUp, firebaseLogIn, facebookLogin,
+} from '../lib/firebase.js';
 import { footerComponent } from './components/footer.js';
 
 export const viewForms = () => {
