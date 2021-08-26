@@ -175,10 +175,8 @@ Al pulsar el icono logout, el usuario cerrará sesión y será devuelto a la pá
 
 ## 7. Tecnología
       Firebase
-## 8. Enlace web
- https://hilicarolina.github.io/SCL017-social-network/src/
 
-***
+ ***
 <details>
 
 # Creando una Red Social
